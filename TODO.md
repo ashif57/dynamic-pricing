@@ -18,6 +18,6 @@ Implementation of dynamic pricing system for hotel room rates. The system levera
 > [High] [mid] [low] are priority levels
 > ~2d means deadline is 2 days
 
-[!IMPORTANT]
+>[!IMPORTANT]
 > assign your task before starting
 > update the todomd after each phase
