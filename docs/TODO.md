@@ -2,12 +2,12 @@
 Implementation of dynamic pricing system for hotel room rates. The system leverages machine learning algorithms to optimize room prices based on various factors influencing demand.
 
 ### Todo
-- [ ] include branch protection rules #security @ashif  [high] 
+- [x] include branch protection rules #security @ashif  [high] 
 
 ### In Progress
 
-- [ ] Data Collection ~2d  
-    - [ ] Identify and gather historical hotel reservation data  [mid]
+- [x] Data Collection ~2d  
+    - [x] Identify and gather historical hotel reservation data  [mid]
 
 ### Done ✓
 
