@@ -1,4 +1,4 @@
-##DYNAMIC PRICING <br>
+# DYNAMIC PRICING <br>
 <p>Project Overview
 <br>
 The goal of this project is to build a machine learning model to predict room prices dynamically based on various features. Dynamic pricing helps optimize revenue by adjusting prices in response to market demands, local events, competitor pricing, and other factors. The model uses XGBoost, a powerful gradient boosting algorithm, to achieve high accuracy and predictive power.<br>
