@@ -1,4 +1,4 @@
-Booking Time,Competitors' Rates ($),Room Price ($),Local Events/Attractions,Length of Stay (nights),Room Availability,Room Type
+BookingTime,Competitors' Rates ($),Room Price ($),Local Events/Attractions,Length of Stay (nights),Room Availability,Room Type
 18-04-2024 08:00,"130, 135, 125, 145",144,Concert,3,2,Pro
 02-04-2024 08:00,"110, 115, 105, 120",107,None,3,14,Pro
 22-04-2024 12:00,"110, 115, 105, 120",80,None,2,15,Standard
